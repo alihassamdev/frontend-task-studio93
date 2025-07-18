@@ -823,6 +823,10 @@ ul {
     line-height: 22px;
     margin-bottom: 30px;
   }
+
+ .phone-image{
+  background-image: none;
+ }
 }
 
 /* Footer */
